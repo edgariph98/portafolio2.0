@@ -1,5 +1,5 @@
 # portafolio2.0
-Personal Portafolio 
+Personal Portafolio for Edgar Portales
 - Project showcase
 - Professional image
 - Work experience
